@@ -31,4 +31,9 @@
                 <h5 class="text-center">Larissa Stefane Barboza Santos</h5>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/Bittarx">
+                <img style="border-radius: 50%;" src="https://github.com/Bittarx.png" width="150px;"/>
+                <h5 class="text-center">Marcos Santos Bittar</h5>
+            </a>
 </table>
