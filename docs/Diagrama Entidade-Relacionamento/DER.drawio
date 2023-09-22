@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-19T19:58:28.492Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="x0SKGrqzmv0tCmgvbL1q" version="21.7.5" type="device">
+<mxfile host="Electron" modified="2023-09-22T13:33:33.992Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="H0u1aWn6dPPNYI3GuW7n" version="21.7.5" type="device">
   <diagram name="Page-1" id="Rvv_j3SJVuH3c3LjiXdO">
-    <mxGraphModel dx="1767" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2214" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,9 +648,6 @@
         <mxCell id="GMfRlRAQtXF_4B_MuGy5-27" value="&lt;u&gt;Id Sala&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-10" y="10" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GMfRlRAQtXF_4B_MuGy5-28" value="Id Mundo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="-275" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="GMfRlRAQtXF_4B_MuGy5-29" value="Id Região" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-310" y="30" width="100" height="40" as="geometry" />
         </mxCell>
@@ -1105,37 +1102,37 @@
         <mxCell id="uXsPlb9PAqpXFLNLmczi-54" value="tipo: anel" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1487.5" y="-770" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-8" value="Nível" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-8" value="Nível" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1012" y="-252" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-9" value="XP" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-9" value="XP" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1012" y="-212" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-11" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.7;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-11" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;entryX=0.7;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="639" as="sourcePoint" />
             <mxPoint x="570" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-12" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-12" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1125" y="918" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1275" y="938" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-14" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Id Instância&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-14" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Id Instância&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="840" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-15" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Id Instância&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-15" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Id Instância&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2120" y="988" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-16" value="Missão Obter Item" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-16" value="Missão Obter Item" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1762.5" y="571" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-17" value="Missão Matar Instância NPC" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-17" value="Missão Matar Instância NPC" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1590" y="569" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OnImwdpdV5gv037TQ_0V-18" value="Id Missão Pré Requisito" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="OnImwdpdV5gv037TQ_0V-18" value="Id Missão Pré Requisito" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1830" y="412" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
